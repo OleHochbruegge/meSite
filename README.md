@@ -1,6 +1,6 @@
 ## Welcome to My Site
 
-[Profile](README3.md)
+[Profile](Profile.md)
 
 [Blogs and Articles](README2.md)
 
