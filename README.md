@@ -16,7 +16,7 @@ Soft Skills
 
 ### About me
 
-Hello, I'm Ole Hochbruegge and currently i'm a student studying Information Technology at Nelson Marlborough Institute of Technology
+Hello, I'm Ole Hochbruegge and currently I`m a student studying Information Technology at Nelson Marlborough Institute of Technology
 
 GitHub: [OleHochbruegge](https://github.com/OleHochbrueggehttps:/)
 
