@@ -1,6 +1,6 @@
 ## Welcome to My Site
 
-[Bolgs and Articles](README2.md)
+[Blogs and Articles](README2.md)
 
 ### Skills
 
