@@ -1,37 +1,23 @@
 ## Welcome to My Site
 
-You can use the [editor on GitHub](https://github.com/OleHochbruegge/meSite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Skills
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Technical Skills
 
-### Markdown
+* JavaScript Skills
+* PHP Skills
+* SQL Skills
+* Basic Hardware Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Soft Skills
 
-```markdown
-Syntax highlighted code block
+* Communication Skills
+* Management Skills
 
-# Header 1
-## Header 2
-### Header 3
+### About me
 
-- Bulleted
-- List
+Hello, I'm Ole Hochbruegge and currently i'm a student studying Information Technology at Nelson Marlborough Institute of Technology
 
-1. Numbered
-2. List
+GitHub: [OleHochbruegge](https://github.com/OleHochbrueggehttps:/)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OleHochbruegge/meSite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+LinkedIn: [OleHochbruegge](https://www.linkedin.com/in/ole-hochbrügge-464a1420b/)
