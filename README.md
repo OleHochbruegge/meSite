@@ -4,6 +4,8 @@
 
 [Blogs and Articles](README2.md)
 
+---
+
 ### Skills
 
 Technical Skills
@@ -17,6 +19,8 @@ Soft Skills
 
 * Communication Skills
 * Management Skills
+
+---
 
 ### About me
 
