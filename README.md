@@ -22,6 +22,12 @@ Soft Skills
 
 ---
 
+![plot](./assets/lotus.jpg)
+
+---
+
+
+
 ### About me
 
 Hello, I'm Ole Hochbruegge and currently I`m a student studying Information Technology at Nelson Marlborough Institute of Technology
